@@ -8,6 +8,9 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '24824'
     url: http://www.gutenberg.org/2009/agents/24824
+covers:
+- cover_type: archival
+  image_path: 52148-h/images/cover.jpg
 creator:
   author:
     agent_name: Eggleston, George Cary
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52148#Dorothy-South-A-Love-Story-of-Virginia-Just-Before-the-War
 gutenberg_issued: '2016-05-23'
 gutenberg_type: Text
 identifiers:

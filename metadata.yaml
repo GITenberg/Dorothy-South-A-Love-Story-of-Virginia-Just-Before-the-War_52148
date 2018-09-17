@@ -1,0 +1,34 @@
+_repo: Dorothy-South-A-Love-Story-of-Virginia-Just-Before-the-War_52148
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Williams, C. D. (Charles D.)
+    alias: Williams, Charles D.
+    birthdate: 1875
+    deathdate: 1954
+    gutenberg_agent_id: '24824'
+    url: http://www.gutenberg.org/2009/agents/24824
+creator:
+  author:
+    agent_name: Eggleston, George Cary
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '8154'
+    url: http://www.gutenberg.org/2009/agents/8154
+    wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
+description: ''
+gutenberg_issued: '2016-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Virginia -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: 'Dorothy South: A Love Story of Virginia Just Before the War'
+url: http://www.gutenberg.org/ebooks/52148
